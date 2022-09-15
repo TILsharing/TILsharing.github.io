@@ -11,10 +11,10 @@ GitHub Actions 是GitHub在2018年推出的一个持续集成和持续交付的�
 目前常用的CI/CD工具主要有：
 
 - **GitHub Actions**
-- ****Jenkins****
-- ****Travis CI****
-- ****Circle CI****
-- ****GOCD……****
+- **Jenkins**
+- **ravis CI**
+- **Circle CI**
+- **GOCD……**
 
 Actions可以简单的被理解为是一系列的自动化部署脚本，GitHub Actions [官方市场](https://github.com/marketplace?type=actions)中有一系列已经发布的Actions供我们使用，通过将不同的Action进行组合，我们可以自定义符合我们项目本身需求的工作流。
 
@@ -156,6 +156,7 @@ jobs:
             gcloud compute instances stop your_instance_name  --zone=your_zone
             gcloud compute instances start your_instance_name  --zone=your_zone
 ```
+
 
 # 在虚拟机中设置metadata
 
