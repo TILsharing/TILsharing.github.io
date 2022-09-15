@@ -1,4 +1,6 @@
 
+
+
 # 打包镜像
 
 ---
@@ -115,4 +117,4 @@ jobs:
 ---
 
 选中你的repo, 在右侧的INFO PANEL中修改权限，即可向特定权限的人公开你的repo。
-![sreenShot](_image/2022-09-15-1.png)
+![screenshot](../2022-09-15-1.png)
