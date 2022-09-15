@@ -115,4 +115,4 @@ jobs:
 ---
 
 选中你的repo, 在右侧的INFO PANEL中修改权限，即可向特定权限的人公开你的repo。
-![screenshot](_png/2022-09-15-1.png)
+![sreenShot](../2022-09-15-1.png)
