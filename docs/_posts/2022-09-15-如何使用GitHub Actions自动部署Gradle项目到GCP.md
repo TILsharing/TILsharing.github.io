@@ -1,9 +1,9 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "如何使用GitHub Actions自动部署Gradle项目到GCP"
 search: false
 categories: 
   - Jekyll
-last_modified_at: 2018-02-19T08:06:00-05:00
+last_modified_at: 2022-09-15T08:06:00-05:00
 ---
 
 This post should not appear in the search index because it has the following YAML Front Matter:
@@ -24,6 +24,6 @@ algolia:
     - index.html
     - index.md
     - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
+    - _posts/2022-09-15-如何使用GitHub Actions自动部署Gradle项目到GCP.md
     - subdirectory/*.html
 ```

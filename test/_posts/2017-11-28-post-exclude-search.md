@@ -24,6 +24,6 @@ algolia:
     - index.html
     - index.md
     - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
+    - _posts/2022-09-15-如何使用GitHub Actions自动部署Gradle项目到GCP.md
     - subdirectory/*.html
 ```
